@@ -655,7 +655,7 @@ gapminder[3, ]
 {: .output}
 
 But for a single column the result will be a vector (this can be changed with
-the third argument, `drop = FALSE`).
+the third argument, `drop = FOALSE`).
 
 > ## Challenge 3
 >
